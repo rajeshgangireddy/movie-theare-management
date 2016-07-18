@@ -1,0 +1,2 @@
+# theatre-management-project---CPP
+its a project report for theatre management project done in c++ language without graphics.h  It has welcome screen followed by a login session.  There are two login modes- User and admin,  A user can view,book and edit his tickets for a show  An admin has privileges to add/edit/remove the Show details  This project uses text files which will be created by the code itself .  This runs fine on the old turbo c++ (blue screen) ,so should be able to run on any compiler. 
