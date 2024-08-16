@@ -2,7 +2,7 @@
 This repository contains a Theatre Management System built using C++. 
 The project was designed to manage theatre operations, such as booking and managing shows, without relying on external graphics libraries like graphics.h.
 
-Note: I developed this project during my 12th grade, so while it served its purpose at the time, it may not meet the standards of more advanced or modern C++ projects today.
+**Note: I developed this project during my 12th grade, so while it served its purpose at the time, it may not meet the standards of more advanced or modern C++ projects today.**
 
 ## Features
 Welcome Screen: A user-friendly interface to start the application.
